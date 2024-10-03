@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalManagement", "HospitalManagement\HospitalManagement.csproj", "{BD7582C4-D6AA-4C22-B4A4-5F2848FD45CF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Hospital", "Hospital\Hospital.vdproj", "{3A94CCF2-0826-4928-8CC5-EB4845400239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD7582C4-D6AA-4C22-B4A4-5F2848FD45CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7582C4-D6AA-4C22-B4A4-5F2848FD45CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7582C4-D6AA-4C22-B4A4-5F2848FD45CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7582C4-D6AA-4C22-B4A4-5F2848FD45CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A94CCF2-0826-4928-8CC5-EB4845400239}.Debug|Any CPU.ActiveCfg = Debug
+		{3A94CCF2-0826-4928-8CC5-EB4845400239}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E261FB35-3F56-4BA1-8CF7-9F76A75948AE}
+	EndGlobalSection
+EndGlobal
